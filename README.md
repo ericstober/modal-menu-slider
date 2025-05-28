@@ -52,7 +52,3 @@ cd modal-menu-slider
 
 3. **Customization**
    Update the styles in the accompanying CSS file or define your own styles to change the appearance of the slider.
-
-## License
-
-This project is licensed under the MIT License.
